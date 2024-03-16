@@ -1,0 +1,39 @@
+.title{
+  text-align: center;
+}
+
+.term{
+  border: solid 5px black;
+  border-radius: 5px;
+  text-align: center;
+  width: 45%;
+  margin: auto;
+  margin-top: 100px;
+
+}
+
+.definition {
+  border: solid 5px black;
+  border-radius: 5px;
+  text-align: center;
+  width: 45%;
+  margin: auto;
+  margin-top: 100px;
+  display: none;
+}
+
+.button{
+  text-align: center;
+  margin-top: 100px;
+}
+
+button{
+  color: gray;
+  background-color: lightpink;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+button:hover {
+  transform: scale(1.1)
+}
